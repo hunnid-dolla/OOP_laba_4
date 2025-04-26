@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace OOP_laba4
+namespace OOP_laba_4
 {
     public class CircleShape : Shape
     {

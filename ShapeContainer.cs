@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace OOP_laba4
+namespace OOP_laba_4
 {
     public class ShapeContainer
     {
