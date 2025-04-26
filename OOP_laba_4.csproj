@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CircleShape.cs" />
     <Compile Include="ShapeContainer.cs" />
     <Compile Include="Shape.cs" />
     <Compile Include="MainForm.cs">
