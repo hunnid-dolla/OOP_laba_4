@@ -1,6 +1,6 @@
 ﻿namespace OOP_laba_4
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
