@@ -2,9 +2,9 @@
 
 namespace OOP_laba_4
 {
-    public class RectangleShape0 : Shape
+    public class RectangleShape : Shape
     {
-        public RectangleShape0(Rectangle bounds, Color color) : base(bounds, color) { } // Конструктор, вызывающий конструктор базового класса Shape и устанавливающий границы и цвет
+        public RectangleShape(Rectangle bounds, Color color) : base(bounds, color) { } // Конструктор, вызывающий конструктор базового класса Shape и устанавливающий границы и цвет
 
         public override void Draw(Graphics g) // Переопределение метода для отрисовки прямоугольника
         {

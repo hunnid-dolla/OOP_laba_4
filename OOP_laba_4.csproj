@@ -51,7 +51,7 @@
     <Compile Include="TriangleShape.cs" />
     <Compile Include="SquareShape.cs" />
     <Compile Include="EllipseShape.cs" />
-    <Compile Include="RectangleShape0.cs" />
+    <Compile Include="RectangleShape.cs" />
     <Compile Include="ShapeContainer.cs" />
     <Compile Include="Shape.cs" />
     <Compile Include="MainForm.cs">

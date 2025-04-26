@@ -55,7 +55,7 @@ namespace OOP_laba_4
             btnShapes.ToolTipText = "Выберите фигуру для рисования"; // Подсказка для кнопки
             toolStrip.Items.Add(btnShapes); // Добавление кнопки на панель
             CreateShapeMenuItem("Круг", typeof(CircleShape)); // Добавление пункта меню для круга
-            CreateShapeMenuItem("Прямоугольник", typeof(RectangleShape0)); // Добавление пункта меню для прямоугольника
+            CreateShapeMenuItem("Прямоугольник", typeof(RectangleShape)); // Добавление пункта меню для прямоугольника
             CreateShapeMenuItem("Эллипс", typeof(EllipseShape)); // Добавление пункта меню для эллипса
             CreateShapeMenuItem("Квадрат", typeof(SquareShape)); // Добавление пункта меню для квадрата
             CreateShapeMenuItem("Треугольник", typeof(TriangleShape)); // Добавление пункта меню для треугольника
