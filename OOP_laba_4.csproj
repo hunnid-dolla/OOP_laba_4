@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CircleShape.cs" />
+    <Compile Include="LineShape.cs" />
     <Compile Include="TriangleShape.cs" />
     <Compile Include="SquareShape.cs" />
     <Compile Include="EllipseShape.cs" />
